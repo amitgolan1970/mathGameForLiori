@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">משחק השאריות של פוצק</string>
+    <string name="the_game">The game</string>
+    <string name="mod_hint">שארית</string>
+    <string name="submit_btn_text">לחץ לפתרון</string>
+    <string name="exit_btn_text">יציאה</string>
+    <string name="hint_btn_text">רמז</string>
+    <string name="board_btn_txt">לוח כפל</string>
+    <string name="div_hint">תוצאה</string>
+    <string name="great">מעולה</string>
+    <string name="wrong">טעות!!</string>
+</resources>
